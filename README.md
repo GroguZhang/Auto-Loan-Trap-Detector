@@ -1,5 +1,3 @@
-# -
-车贷金融防坑验谎仪
 # 🚗 Auto-Loan-Trap-Detector (车贷金融防坑验谎仪)
 
 ![Version](https://img.shields.io/badge/Version-3.0.0-blue.svg)
