@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **本项目已并入 `ai-workbench` Monorepo，此仓库仅保留为历史快照，不再单独维护。**
+>
+> 最新代码与后续更新 → **[ai-workbench · productivity-apps/auto-loan-trap-detector](https://github.com/GroguZhang/ai-workbench/tree/main/productivity-apps/auto-loan-trap-detector)**
+>
+> 合并原因：统一入口后，本工具与车险比对、健身看板共用一条 CI（含 Node 财务计算测试）
+> 与同一套发布流程，避免多个仓库各自漂移。下方为 v3.0 独立版的原始说明，内容未改动。
+
+---
+
 # 🚗 Auto-Loan-Trap-Detector (车贷金融防坑验谎仪)
 
 ![Version](https://img.shields.io/badge/Version-3.0.0-blue.svg)
